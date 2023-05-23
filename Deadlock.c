@@ -1,17 +1,3 @@
-
-dharmendrapoondla123
-/
-operating-system
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Browse the repository at this point in the history
-17.deadlock avoidence by stimlating bankers al
 #include<stdio.h>
 static int mark[20];
 int i,j,np,nr;
